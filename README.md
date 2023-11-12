@@ -1,2 +1,0 @@
-# AlphabotServer
-AlphabotServer
